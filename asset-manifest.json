@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/prayeTime1/static/css/main.6a2326e8.css",
+    "main.js": "/prayeTime1/static/js/main.a0e5adff.js",
+    "static/js/453.5b23e221.chunk.js": "/prayeTime1/static/js/453.5b23e221.chunk.js",
+    "static/media/images.jpg": "/prayeTime1/static/media/images.6f2a2fa1ebc5e236e70e.jpg",
+    "index.html": "/prayeTime1/index.html",
+    "main.6a2326e8.css.map": "/prayeTime1/static/css/main.6a2326e8.css.map",
+    "main.a0e5adff.js.map": "/prayeTime1/static/js/main.a0e5adff.js.map",
+    "453.5b23e221.chunk.js.map": "/prayeTime1/static/js/453.5b23e221.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a2326e8.css",
+    "static/js/main.a0e5adff.js"
+  ]
+}
